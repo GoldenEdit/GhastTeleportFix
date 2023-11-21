@@ -1,0 +1,14 @@
+# Ghast Teleport Fix by GoldenEdit.dev
+
+cache:
+  cache-enabled: false # Enable portal link caching
+  cache-duration-seconds: 3600  # How long to hold a link cache for
+  ghast-teleport-wait-seconds: 1  # How long to wait in seconds before caching location sent to (time for a Ghast to be successfully sent through to the other side)
+
+drops:
+  convert-ghasts-to-drops: false # Converting Ghasts to their drops causes less server lag due to drops having much smaller hitboxes
+  max-tear-drop: 1 # Default max number of tears (without looting) For looting set to 4
+  max-gunpowder-drop: 2 # Default max number of gunpowder (without looting) For looting set to 5
+
+prevent-ghasts-using-portals: false # Stop Ghast portal farms from working
+debug: false  # Toggle debug messages

@@ -1,0 +1,11 @@
+name: GhastTeleportFix
+version: '${project.version}'
+main: dev.goldenedit.ghastteleportfix.GhastTeleportFix
+api-version: 1.19
+commands:
+  reloadghastconfig:
+    description: Reloads the plugin config.
+permissions:
+  ghastteleportfix.reload:
+    description: Allows reloading of the GhastTeleportFix plugin config.
+    default: op
