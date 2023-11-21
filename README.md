@@ -45,7 +45,7 @@ debug: false  # Toggle debug messages
   - **Cache:** Does not work as well as the drops feature (at improving server performance), but it keeps vanilla behaviour. (`cache-enabled: true`).
     - To put it simply, it creates a link between the nether portal block that the Ghast entered, and where it was sent in the overworld, then uses that link when future Ghasts enter that nether portal block, instead of the performance-expensive search algorithms.
    
-  - **Drops:** Massively improves server performance, but completely removing the need for the large hitboxed entity (Ghast) from going through the portal. (`drops-enabled: true`).
+  - **Drops:** Massively improves server performance by completely removing the need for the large hitboxed entity (Ghast) from going through the portal. (`drops-enabled: true`).
     - When the Ghast touches a portal in the nether, it is converted to drops (randomised, decided in the config `max-tear-drop: x` `max-gunpowder-drop: x`). These items are sent through the portal (much smaller hitboxes, less lag).
    
   - **Disable Ghast farms completely:** (`prevent-ghasts-using-portals: true`)
