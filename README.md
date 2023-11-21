@@ -10,10 +10,7 @@ Could be used for servers that want to:
 - Make it easier to farm Ghasts
 - Disable Ghast farms (all configurable)
 - Optimize Ghast farms
-- 
 
-![image](https://github.com/VanillaPlusNet/StatusPage-io-MSPTMonitor/assets/45533337/53d32db9-b07d-46c7-98e0-3297d2638ccf)
-https://vanillaplus.statuspage.io/#system-metrics
 
 
 ## Setup & Installation
