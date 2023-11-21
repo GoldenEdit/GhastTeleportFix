@@ -20,7 +20,7 @@ The plugin is made for `1.19.2+`
 1. Download the latest release from the [Releases](https://github.com/VanillaPlusNet/GhastTeleportFix/releases) tab
 2. Drag it into your `/plugins` folder
 3. Restart/reload your server
-4. Work on the config.yml
+4. Work on the [config.yml](https://github.com/VanillaPlusNet/GhastTeleportFix/tree/master?tab=readme-ov-file#config)
 5. `/reloadghastconfig`
 
 ## Config
